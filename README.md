@@ -1,38 +1,13 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Sobre o projeto / About the project
 
-## Getting Started
+**Português:**
 
-First, run the development server:
+O projeto **BITCENT** foi feito baseado no evento **Semana Transformação Dev**, da plataforma Formação Dev, e foi criado utilizando as seguintes tecnologias: Next.js, React, TailwindCss, Firebase, Mantine e Tabler-icons. O projeto é uma plataforma financeira, integrada a um banco de dados Firebase, onde você pode registrar suas despesas e receitas para ter uma melhor organização da sua vida financeira. Além disso, o projeto apresenta responsividade mobile e para todos os dispositivos. Sinta-se a vontade para fazer comentários e trazer ideias para um possível futuro upgrade no projeto. 
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+**English:**
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The **BITCENT** project was made based on the event **Semana Transformação Dev**, of Formação Dev platform, and was created using the following technologies: Next.js, React, TailwindCss, Firebase, Mantine and Tabler-icons. The project is a financial platform, integrated with a Firebase Data Center, where you can register your expenses and receipts to have a better organization of your financial life. Furthermore, the project features mobile responsiveness and can be used in all devices. Feel free to leave comments and bring ideas for a possible future upgrade to the project.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
