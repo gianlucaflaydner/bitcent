@@ -6,7 +6,7 @@ O projeto **BITCENT** foi feito baseado no evento **Semana Transformação Dev**
 
 **English:**
 
-The **BITCENT** project was made based on the event **Semana Transformação Dev**, of Formação Dev platform, and was created using the following technologies: Next.js, React, TailwindCss, Firebase, Mantine and Tabler-icons. The project is a financial platform, integrated with a Firebase Data Center, where you can register your expenses and receipts to have a better organization of your financial life. Furthermore, the project features mobile responsiveness and can be used in all devices. Feel free to leave comments and bring ideas for a possible future upgrade to the project.
+The **BITCENT** project was made based on the event **Semana Transformação Dev**, of Formação Dev platform, and was created using the following technologies: Next.js, React, TailwindCss, Firebase, Mantine and Tabler-icons. The project is a financial platform, integrated with a Firebase Data Base, where you can register your expenses and receipts to have a better organization of your financial life. Furthermore, the project features mobile responsiveness and can be used in all devices. Feel free to leave comments and bring ideas for a possible future upgrade to the project.
 
 
 
